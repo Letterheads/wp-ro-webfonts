@@ -10,7 +10,7 @@ Wordpress.com offers 34 typefaces out of which only 20 correctly render the fair
 The call to action is simple: no need trying all of them out, one by one. You cand find all of them earmarked in the table below. Check out Google Fonts/Typekit references on the right.
 
 
-|# |Typeface                |ro_|               Notes                 |                       Google Fonts                        |                   Typekit                     |
+|  |Typeface                |ro |               Notes                 |                       Google Fonts                        |                   Typekit                     |
 |--|------------------------|---|-------------------------------------|-----------------------------------------------------------|-----------------------------------------------|
 |1.|Abril Fatface           |yes|display heavy titling and text       |[G](https://www.google.com/fonts/specimen/Abril+Fatface)   |[T](https://typekit.com/fonts/abril-fatface)   |
 |2.|Alegreya                |yes|x                                    |[G](https://www.google.com/fonts/specimen/Alegreya)        |[T](https://typekit.com/fonts/alegreya)        |
